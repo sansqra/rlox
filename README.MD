@@ -1,4 +1,4 @@
-## Rlox: an OOP Lang
+## Rlox: an OOP Lang (Status: In Progress)
 
 > Based of jlox
 
