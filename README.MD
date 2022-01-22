@@ -1,4 +1,4 @@
-## An attempt at making an Object-Oriented Language
+## Rlox: an OOP Lang
 
 > Based of jlox
 
